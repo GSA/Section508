@@ -1,4 +1,4 @@
-***Accessible Web Design & Development Guidance
+Accessible Web Design & Development Guidance
 
 This draft contains guidance for meeting the Revised 508 Standards for Web sites and was created by the ACOP technical workgroup . The purpose was to identify requirements that are the responsibility of a developer and requirements that are more likely to be the responsibility of a site's designer.
 
